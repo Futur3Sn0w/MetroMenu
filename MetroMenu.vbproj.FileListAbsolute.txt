@@ -1,0 +1,13 @@
+C:\Users\futur\source\repos\MetroMenu\MetroMenu\bin\Debug\MetroMenu.exe.config
+C:\Users\futur\source\repos\MetroMenu\MetroMenu\bin\Debug\MetroMenu.exe
+C:\Users\futur\source\repos\MetroMenu\MetroMenu\bin\Debug\MetroMenu.pdb
+C:\Users\futur\source\repos\MetroMenu\MetroMenu\bin\Debug\MetroMenu.xml
+C:\Users\futur\source\repos\MetroMenu\MetroMenu\obj\Debug\MetroMenu.vbprojAssemblyReference.cache
+C:\Users\futur\source\repos\MetroMenu\MetroMenu\obj\Debug\MetroMenu.Menu.resources
+C:\Users\futur\source\repos\MetroMenu\MetroMenu\obj\Debug\MetroMenu.Resources.resources
+C:\Users\futur\source\repos\MetroMenu\MetroMenu\obj\Debug\MetroMenu.vbproj.GenerateResource.cache
+C:\Users\futur\source\repos\MetroMenu\MetroMenu\obj\Debug\MetroMenu.exe
+C:\Users\futur\source\repos\MetroMenu\MetroMenu\obj\Debug\MetroMenu.xml
+C:\Users\futur\source\repos\MetroMenu\MetroMenu\obj\Debug\MetroMenu.pdb
+C:\Users\futur\source\repos\MetroMenu\MetroMenu\obj\Debug\MetroMenu.Activator.resources
+C:\Users\futur\source\repos\MetroMenu\MetroMenu\obj\Debug\MetroMenu.TimeDate.resources
